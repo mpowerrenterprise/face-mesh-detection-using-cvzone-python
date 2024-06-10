@@ -1,4 +1,4 @@
-# FACE MESH DETECTION USING CV ZONE PYTHON
+ # Face Mesh Detection Using CvZone Python
 
 ## Introduction
 
@@ -49,7 +49,7 @@ Python is the main programming language of this prototype, and OpenCV and CVzone
 
 ![](github-readme-content/demo.gif)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
